@@ -1,0 +1,6 @@
+@EndPoint.API_HostAddress = http://localhost:5232
+
+GET {{EndPoint.API_HostAddress}}/login/
+Accept: application/json
+
+###
